@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Nuevo Aceite",
+    "description": "Nueva descripcion",
+    "price": "99",
+    "thumbnail": "www.thumbnail.com",
+    "code": "1234",
+    "stock": "57"
+  },
+  {
+    "id": 2,
+    "title": "Manteca",
+    "description": "SanCor",
+    "price": "36.80",
+    "thumbnail": "www.google.com/manteca-SanCor",
+    "code": "242",
+    "stock": "30"
+  },
+  {
+    "id": 3,
+    "title": "Harina",
+    "description": "La Negrita",
+    "price": "23.00",
+    "thumbnail": "www.google.com/manteca-SanCor",
+    "code": "243",
+    "stock": "310"
+  },
+  {
+    "id": 4,
+    "title": "Leche",
+    "description": "serenisima",
+    "price": "43.70",
+    "thumbnail": "wwww.google.com/leche-serenisima",
+    "code": "1",
+    "stock": "3"
+  },
+  {
+    "id": 5,
+    "title": "Leche",
+    "description": "serenisima",
+    "price": "44.85",
+    "thumbnail": "wwww.google.com/leche-serenisima",
+    "code": "2",
+    "stock": "3"
+  },
+  {
+    "id": 6,
+    "title": "Leche",
+    "description": "serenisima",
+    "price": "44.85",
+    "thumbnail": "wwww.google.com/leche-serenisima",
+    "code": "3",
+    "stock": "3"
+  }
+]
